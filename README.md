@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several projects, including using ASP.NET and Unity<br>🌱 I’m currently learning ASP.NET, Azure and React
+🔭 I’m currently working on several projects, including using ASP.NET and Unity<br>🌱 I’m currently learning: ASP.NET, Azure, React and Tensorflow
 
 
 ## 🌐 Socials:
