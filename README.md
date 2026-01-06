@@ -2,11 +2,11 @@
 
 ### A passionate software developer
 
-- 🔭 I'm currently working on **PalBet - A Predict with Friends Service.** using ASP.NET and other .NET solutions such as Hangfire and SignalR, alongside frontend tools such as React, and SQL for databases.
+- 🔭 I'm currently working on **PalBet - A Predict with Friends Service.** using ASP.NET and other .NET solutions such as Hangfire and SignalR, alongside frontend tools such as React, and SQL and Redis for databases.
 
-- 🎄 I'm currently participating in the [Advent of Code](https://adventofcode.com/). Find my solutions [Here](https://github.com/diificult/Advent-Of-Code-2025)
+- 🎄 I participated in the [Advent of Code](https://adventofcode.com/). Find my solutions [Here](https://github.com/diificult/Advent-Of-Code-2025)
 
-- 🌱 I'm currently learning **Docker, Kubernetes, Machine Learning & Data Science, React.**
+- 🌱 I'm currently learning **Docker, Kubernetes, Machine Learning/Data Science, React.**
 
 - 📫 How to reach me **contact@owenhowarth.co.uk**
 
